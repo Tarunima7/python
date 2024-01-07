@@ -1,0 +1,17 @@
+DAY1: 
+today, we're going to learn about printing, commenting, debugging, string manipulation and variables.
+
+print("Welcome to the Band Name Generator.")
+street = input("What's the name of the city you grew up in?\n")
+pet = input("What's your pet's name?\n")
+print("Your band name could be " + street + " " + pet)
+
+RUN
+output;
+
+Welcome to the Band Name Generator.
+What's the name of the city you grew up in?
+delhi 
+What's your pet's name?
+max
+Your band name could be delhi  max
