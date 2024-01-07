@@ -1,5 +1,5 @@
 DAY1: 
-today, we're going to learn about printing, commenting, debugging, string manipulation and variables.
+band name generator program.
 
 print("Welcome to the Band Name Generator.")
 street = input("What's the name of the city you grew up in?\n")
